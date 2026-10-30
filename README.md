@@ -72,5 +72,25 @@ I enjoy learning new technologies, strengthening my programming skills, and turn
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/indukuri-nishita-9819b2314/)
 
 ---
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishita0508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishita0508&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishita0508&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishita0508&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ⭐ *Always learning, building, and improving.*
