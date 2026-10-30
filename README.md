@@ -74,23 +74,29 @@ I enjoy learning new technologies, strengthening my programming skills, and turn
 ---
 ---
 
-### 📊 GitHub Statistics
+---
+
+---
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishita0508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishita0508&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishita0508&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 </p>
 
-### 💻 Most Used Languages
+### 🛠️ Technologies I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishita0508&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ServiceNow-00A86B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🏆 GitHub Achievements
+⭐ Always learning, building, and improving.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishita0508&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-⭐ *Always learning, building, and improving.*
