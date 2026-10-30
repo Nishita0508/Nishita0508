@@ -72,13 +72,7 @@ I enjoy learning new technologies, strengthening my programming skills, and turn
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/indukuri-nishita-9819b2314/)
 
 ---
----
 
----
-
----
-
----
 
 ### 📊 GitHub Activity
 
